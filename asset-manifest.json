@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/awx-test-app/static/css/main.d73d322e.css",
+    "main.js": "/awx-test-app/static/js/main.fd61f304.js",
+    "index.html": "/awx-test-app/index.html",
+    "main.d73d322e.css.map": "/awx-test-app/static/css/main.d73d322e.css.map",
+    "main.fd61f304.js.map": "/awx-test-app/static/js/main.fd61f304.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d73d322e.css",
+    "static/js/main.fd61f304.js"
+  ]
+}
