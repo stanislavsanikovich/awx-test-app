@@ -1,7 +1,10 @@
 .typographyTitle {
     font-weight: bold;
+    font-size: 18px;
 }
 .label {
     color: gray;
+}
+.formControlLabel {
     margin-left: 0;
 }

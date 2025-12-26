@@ -6,7 +6,6 @@ import {currencyInput} from "../../themes/CurrencyInput";
 type Props = {
     curencyLabel: string;
     value: string;
-    digits: number;
 }
 export const CurrencyInput = (props: Props) => {
     const digits = props.value.split('.')[1]?.length;

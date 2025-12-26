@@ -45,10 +45,10 @@ export const main = createTheme({
                         color: 'gray'
                     },
                     '&.Mui-checked': {
-                        backgroundColor: "black",
+                        backgroundColor: 'black',
                     },
                     '& svg': {
-                        scale: "1.4",
+                        scale: 1.4,
                         fill: 'yellow'
                     },
                 },

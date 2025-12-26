@@ -1,5 +1,5 @@
-import {Button, Grid} from "@mui/material";
-import SelectableButton from "../../ui/SelectableButton/SelectableButton";
+import {Grid} from "@mui/material";
+import SelectableButton from "../../ui/SelectableButton";
 
 const paymentTypes = [{
     id: 1,

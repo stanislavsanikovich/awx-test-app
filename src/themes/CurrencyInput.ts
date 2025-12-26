@@ -32,12 +32,12 @@ export const currencyInput = createTheme({
                     textAlign: 'center',
                 },
                 shrink: {
-                    margin: "0 auto",
-                    position: "absolute",
-                    right: "0",
-                    left: "0",
-                    width: "150px",
-                    color: 'gray!important'
+                    margin: '0 auto',
+                    position: 'absolute',
+                    right: 0,
+                    left: 0,
+                    width: 150,
+                    color: 'gray!important',
                 }
             }
         },

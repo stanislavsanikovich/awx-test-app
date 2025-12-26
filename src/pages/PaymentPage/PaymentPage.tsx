@@ -11,11 +11,9 @@ export const PaymentPage = () => <Grid container direction='column' spacing={2}>
     <Exchange/>
     <Grid container justifyContent='space-between'>
         <Typography className={classes.typographyTitle}>Реквизиты</Typography>
-        <FormControlLabel control={<Checkbox defaultChecked/>}
+        <FormControlLabel control={<Checkbox defaultChecked/>} className={classes.formControlLabel}
                           label={<Typography className={classes.label}>Сохранить реквизиты</Typography>}
                           labelPlacement='start'/>
     </Grid>
     <Requisites/>
 </Grid>
-
-// export default PaymentPage;
