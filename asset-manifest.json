@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/awx-test-app/static/css/main.72afc4e4.css",
-    "main.js": "/awx-test-app/static/js/main.02070703.js",
+    "main.css": "/awx-test-app/static/css/main.50cba8f6.css",
+    "main.js": "/awx-test-app/static/js/main.148028d6.js",
     "index.html": "/awx-test-app/index.html",
-    "main.72afc4e4.css.map": "/awx-test-app/static/css/main.72afc4e4.css.map",
-    "main.02070703.js.map": "/awx-test-app/static/js/main.02070703.js.map"
+    "main.50cba8f6.css.map": "/awx-test-app/static/css/main.50cba8f6.css.map",
+    "main.148028d6.js.map": "/awx-test-app/static/js/main.148028d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.72afc4e4.css",
-    "static/js/main.02070703.js"
+    "static/css/main.50cba8f6.css",
+    "static/js/main.148028d6.js"
   ]
 }
