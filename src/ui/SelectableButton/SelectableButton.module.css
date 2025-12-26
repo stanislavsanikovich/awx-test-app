@@ -1,0 +1,8 @@
+.selected {
+    color: white;
+    background: black;
+}
+.default {
+    color: black;
+    background: white;
+}

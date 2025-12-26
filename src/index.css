@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Vazir";
+    font-weight: 400;
+}
+
+body, html {
+    font-family: 'Vazir', sans-serif;
+    font-weight: bold;
+}
